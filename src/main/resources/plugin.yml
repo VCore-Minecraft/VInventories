@@ -1,0 +1,6 @@
+name: VInventories
+version: ${project.version}
+main: de.verdox.vinventories.VInventories
+api-version: 1.16
+depend: [ VCorePaper, VCorePaperEventModule, VCorePaperNMSModule ]
+authors: [ Verdox ]
